@@ -1,0 +1,5 @@
+[jumpbox]
+workstation
+# to run on on workstation delete the above and replace with
+# localhost ansible_connection=local
+
